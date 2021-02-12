@@ -5,8 +5,8 @@
 <ul>
 <li>🔭 I’m currently working on <a href="https://github.com/tnmch/CyberCrowl">CyberCrowl</a>.</li>
 <li>🧐 Learning about <strong>ML</strong>.</li>
-<li>👀 I’m interested in web application penetration testing.</li>
-<li>💞️ I’m looking to collaborate on bug bounty</li>
+<li>👀 I’m interested in <strong>web application penetration testing</strong>.</li>
+<li>💞️ I’m looking to collaborate on <strong>bug bounty</strong></li>
 <li>💬 Ping me about <strong>security</strong>.</li>
 </ul>
 <img src="https://github-readme-stats.vercel.app/api?username=tnmch&show_icons=true&count_private=true" alt="tnmch" />
