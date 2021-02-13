@@ -4,7 +4,7 @@
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <a href="https://github.com/tnmch/CyberCrowl">CyberCrowl</a>.</li>
-<li>🧐 Learning about <strong>ML</strong>.</li>
+<li>👨‍💻 CTFer with  <a href="https://guesser.team/member">Super-Guesser</a>.</li>
 <li>👀 I’m interested in <strong>web application penetration testing</strong>.</li>
 <li>💞️ I’m looking to collaborate on <strong>bug bounty</strong></li>
 <li>💬 Ping me about <strong>security</strong>.</li>
